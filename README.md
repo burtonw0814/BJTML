@@ -3,19 +3,22 @@
  <img width="1844" height="1164" alt="BJTML_PIC" src="https://github.com/user-attachments/assets/08c61a45-bb31-426f-93bf-d0235bbf5fa4" />
 
  
+
+
  
  Extension of JTML software to be compatible with DU's biplanar tracking workflow.
  
  Single plane version:
  https://github.com/ajensen1234/JTML/
- Special thanks to Andrew Jensen, Paris Flood, and Scott Banks for their hard work getting the single plane version up and running.
+ 
+ Special thanks to Andrew Jensen, Paris Flood, and Scott Banks at UF for their hard work getting the single plane version up and running.
 
 
  Instructions:
  
  1. Install dependencies:
     
-    Follow instructions at the following link to install dependencies (if it's hard then you're on the right track):
+    Follow instructions at the following link to install dependencies (if it makes you want to pull your hair out then you're on the right track):
     https://github.com/burtonw0814/BJTML_link/blob/main/LINUX_BUILD.md
     
  3. Build using CMake:
