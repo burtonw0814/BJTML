@@ -21,7 +21,7 @@
  1. Install dependencies:
     
     Follow instructions at the following link to install dependencies (if it makes you want to pull your hair out then you're on the right track):
-    https://github.com/burtonw0814/BJTML_link/blob/main/LINUX_BUILD.md
+    [https://github.com/burtonw0814/BJTML_link/blob/main/LINUX_BUILD.md](https://github.com/ajensen1234/JTML/blob/main/LINUX_BUILD.md)
     
  3. Build using CMake:
     
